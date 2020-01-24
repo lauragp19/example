@@ -6,4 +6,5 @@ List of elements we need:
 
 1. match 
 2. water
+3. canned food 
 
